@@ -15,7 +15,7 @@ createRoot(document.getElementById('root')).render(
       <Route path='/auth' element = {<Auth />} />
       <Route path='/auth2' element = {<Auth2 />} />
       <Route path='/:url' element = {<VideoMeet />} />
-      <Route path='/home's element={<HomeComponent />} />
+      <Route path='/home' element={<HomeComponent />} />
     </Routes>
   </BrowserRouter>
    
