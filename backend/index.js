@@ -29,7 +29,7 @@ let timeOnline = {}
 
 const io = new Server(server,{
     cors: {
-        origin: "*",
+        origin: "https://chehra.vercel.app",
         methods: ["GET", "POST"],
         allowedHeaders: ["*"],
         credentials: true
