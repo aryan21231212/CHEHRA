@@ -8,7 +8,7 @@ const Signin = () => {
 
   const submitDefault = async (e)=>{
       e.preventDefault()
-      let response = await fetch("http://localhost:3000/signup", {
+      let response = await fetch("https://chehra.onrender.com/signup", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
