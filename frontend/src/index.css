@@ -1,0 +1,89 @@
+*{
+  padding:0 ;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  height: 100vh;
+  width: 100%;
+  background-image: url("/images/background.png");
+  background-size: cover;
+  object-fit: cover;
+  color: white;
+}
+
+.navbar{
+  background: transparent !important;
+ 
+}
+
+.container-fluid a{
+  color: white !important;
+}
+
+.left{
+  margin-top: 15rem !important;
+}
+
+span{
+  color: orange;
+}
+
+.connect{
+  font-weight: 800;
+  font-size: 3rem !important;
+
+}
+
+.btn{
+  color: white;
+  background-color:orange ;
+}
+
+.mobile{
+  margin-top: 5rem;
+  height: 35rem !important;
+  object-fit: cover;
+}
+
+.main{
+  background-color:white;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  object-fit: cover;
+
+}
+
+.hero{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.lobby{
+  padding: 6px;
+  outline: none;
+  border-radius: 0.25rem;
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
