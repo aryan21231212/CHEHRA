@@ -6,6 +6,8 @@ Chehra is a peer-to-peer video calling web application built using **WebRTC**, *
 
 🌐 [Visit Chehra Live](https://chehra.vercel.app)  
 
+# not for mobiles
+
 
 ## 🛠️ Features
 
